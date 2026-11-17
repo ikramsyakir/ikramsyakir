@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ikram 👋</h1>
 
 <p align="center">
-  Software engineer from Malaysia. I build backend systems with Laravel.
+  Software engineer and Laravel trainer from Malaysia. I build backend systems with Laravel and teach others how to do it.
 </p>
 
 <p align="center">
@@ -12,6 +12,7 @@
 ## About me
 
 - 💼 Software engineer since 2020, building for the web since 2016
+- 🎓 Laravel trainer: I teach developers to build web apps with Laravel
 - ⚙️ Mostly backend: Laravel, APIs, databases and the logic that connects them
 - 🧩 I build systems with roles and permissions, approval workflows, dashboards and reports
 - 🌱 On the side: my own Laravel starter kits, small websites for local businesses, and Claude Code skills
